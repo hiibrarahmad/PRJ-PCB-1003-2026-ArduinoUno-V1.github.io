@@ -295,6 +295,6 @@ PRJ-2026-PCB-0001-UNO-V1.github.io/
 [![USB](https://img.shields.io/badge/USB-Type--C-a855f7?style=for-the-badge)](#)
 [![Compatible](https://img.shields.io/badge/Compatible-Arduino%20UNO-00c8ff?style=for-the-badge)](#)
 
-© 2026 Hibrar Ahmad. All Rights Reserved.
+© 2026 ibrar Ahmad. All Rights Reserved.
 
 </div>
