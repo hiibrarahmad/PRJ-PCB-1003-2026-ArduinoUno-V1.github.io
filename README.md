@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hiibrarahmad/PRJ-2026-PCB-0001-UNO-V1.github.io/main/Assets/PRJ-2026-PCB-0001-UNO-variant1.jpg" width="100%" alt="Arduino UNO V1 — Top View"/>
+<img src="https://raw.githubusercontent.com/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/main/Assets/PRJ-2026-PCB-0001-UNO-variant1.jpg" width="100%" alt="Arduino UNO V1 — Top View"/>
 
 ---
 
-# ⚡ PRJ-2026-PCB-0001-UNO-V1
+# ⚡ PRJ-PCB-1003-2026-ArduinoUno-V1
 
 ### Custom Arduino UNO Compatible Development Board
 
@@ -18,13 +18,13 @@
 [![Voltage](https://img.shields.io/badge/Logic-3.3V%20%2F%205V-0ea5e9?style=for-the-badge)](#)
 
 [![License](https://img.shields.io/badge/License-Open%20Hardware-16a34a?style=for-the-badge)](#)
-[![Last Commit](https://img.shields.io/github/last-commit/hiibrarahmad/PRJ-2026-PCB-0001-UNO-V1.github.io?style=for-the-badge&color=0891b2&label=Last%20Commit)](../../commits/main)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-22c55e?style=for-the-badge&logo=github)](https://hiibrarahmad.github.io/PRJ-2026-PCB-0001-UNO-V1.github.io/)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hiibrarahmad.PRJ-2026-PCB-0001-UNO-V1.github.io&style=for-the-badge&color=0e7490)](https://github.com/hiibrarahmad/PRJ-2026-PCB-0001-UNO-V1.github.io)
+[![Last Commit](https://img.shields.io/github/last-commit/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io?style=for-the-badge&color=0891b2&label=Last%20Commit)](../../commits/main)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-22c55e?style=for-the-badge&logo=github)](https://hiibrarahmad.github.io/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hiibrarahmad.PRJ-PCB-1003-2026-ArduinoUno-V1.github.io&style=for-the-badge&color=0e7490)](https://github.com/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io)
 
 <br/>
 
-[🔬 Interactive PCB View](https://hiibrarahmad.github.io/PRJ-2026-PCB-0001-UNO-V1.github.io/) · [📋 Project Assets](https://github.com/hiibrarahmad/PRJ-2026-PCB-0001-UNO-V1.github.io/tree/main/Assets) · [📜 BOM](#-bill-of-materials)
+[🔬 Interactive PCB View](https://hiibrarahmad.github.io/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/) · [📋 Project Assets](https://github.com/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/tree/main/Assets) · [📜 BOM](#-bill-of-materials)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 ## 📖 Project Overview
 
-**PRJ-2026-PCB-0001-UNO-V1** is a **custom-designed Arduino UNO compatible development board** built around the **ATmega328P** microcontroller. This board replaces the classic USB-B connector with a modern **USB Type-C** interface and uses the **CH340G** USB-to-serial bridge IC for reliable host communication — all while maintaining full compatibility with the standard Arduino UNO pinout and ecosystem.
+**PRJ-PCB-1003-2026-ArduinoUno-V1** is a **custom-designed Arduino UNO compatible development board** built around the **ATmega328P** microcontroller. This board replaces the classic USB-B connector with a modern **USB Type-C** interface and uses the **CH340G** USB-to-serial bridge IC for reliable host communication — all while maintaining full compatibility with the standard Arduino UNO pinout and ecosystem.
 
 > 💡 Designed with SMD components for a cleaner layout, onboard **3.3V and 5V** regulated power rails, dual crystal oscillators for USB and MCU clocking, and a fully Arduino UNO-compatible shield connector footprint.
 
@@ -46,14 +46,14 @@
 
 **🔝 Top Side**
 
-<img src="https://raw.githubusercontent.com/hiibrarahmad/PRJ-2026-PCB-0001-UNO-V1.github.io/main/Assets/PRJ-2026-PCB-0001-UNO-variant1.jpg" width="100%" alt="UNO V1 PCB — Top View"/>
+<img src="https://raw.githubusercontent.com/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/main/Assets/PRJ-2026-PCB-0001-UNO-variant1.jpg" width="100%" alt="UNO V1 PCB — Top View"/>
 
 </td>
 <td align="center" width="50%">
 
 **🔻 Bottom Side**
 
-<img src="https://raw.githubusercontent.com/hiibrarahmad/PRJ-2026-PCB-0001-UNO-V1.github.io/main/Assets/PRJ-2026-PCB-0001-UNO-variant1bot.jpg" width="100%" alt="UNO V1 PCB — Bottom View"/>
+<img src="https://raw.githubusercontent.com/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/main/Assets/PRJ-2026-PCB-0001-UNO-variant1bot.jpg" width="100%" alt="UNO V1 PCB — Bottom View"/>
 
 </td>
 </tr>
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-🔗 **[→ View Interactive PCB Online](https://hiibrarahmad.github.io/PRJ-2026-PCB-0001-UNO-V1.github.io/)**
+🔗 **[→ View Interactive PCB Online](https://hiibrarahmad.github.io/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/)**
 
 </div>
 
@@ -78,46 +78,6 @@
 | 🔧 **Programmability** | USB bootloader + ICSP 2×3 header |
 | 💡 **Indicators** | Power, TX, RX, and User LED onboard |
 | 📦 **Form Factor** | Standard Arduino UNO footprint |
-
----
-
-## 🧠 System Architecture
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                      UNO V1 CARRIER BOARD                           │
-│                                                                     │
-│  ┌──────────┐    ┌────────────┐    ┌─────────────────────────────┐  │
-│  │ USB TYPE-C│──▶│   CH340G   │───▶│      ATmega328P              │  │
-│  └──────────┘    │ USB-Serial │    │   16 MHz Crystal (Y1)        │  │
-│                  │ Bridge IC  │    │   14 Digital I/O             │  │
-│                  │ 12 MHz (Y2)│    │   6 Analog Inputs (ADC)      │  │
-│                  └────────────┘    │   6 PWM Outputs              │  │
-│                                    └────────────┬────────────────┘  │
-│  ┌──────────┐    ┌────────────┐                 │                   │
-│  │ POWER    │───▶│  5V VREG   │─────────────────┤                   │
-│  │ JACK J2  │    │  (U4 SOT223)│                │                   │
-│  └──────────┘    └────────────┘    ┌────────────▼────────────────┐  │
-│                  ┌────────────┐    │       3.3V VREG             │  │
-│                  │  500mA F1  │    │      (U2 SOT223)            │  │
-│                  │  Fuse      │    └─────────────────────────────┘  │
-│                  └────────────┘                                     │
-│                                                                     │
-│  ┌─────── CONNECTORS ──────────────────────────────────────────┐   │
-│  │  P1 ──▶ Arduino UNO Shield Header (Standard)               │   │
-│  │  P2 ──▶ 3×2 ICSP SPI Programming Header                   │   │
-│  │  J3 ──▶ USB Type-C Connector                               │   │
-│  │  JP10b ──▶ Jumper Selector                                 │   │
-│  └─────────────────────────────────────────────────────────────┘   │
-│                                                                     │
-│  ┌─────── INDICATORS ──────────────────────────────────────────┐   │
-│  │  D1 ──▶ Yellow LED (Power)                                  │   │
-│  │  D2, D3 ──▶ Red LEDs                                       │   │
-│  │  D4, D5 ──▶ Green LEDs                                     │   │
-│  │  D6 ──▶ Red LED (User/Status)                              │   │
-│  └─────────────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -261,7 +221,7 @@
 ## 📁 Repository Structure
 
 ```
-PRJ-2026-PCB-0001-UNO-V1.github.io/
+PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/
 │
 ├── Assets/
 │   ├── PRJ-2026-PCB-0001-UNO-variant1.jpg       ← Top view (JPG)
@@ -278,16 +238,16 @@ PRJ-2026-PCB-0001-UNO-V1.github.io/
 
 | Resource | URL |
 |----------|-----|
-| 🌐 Interactive PCB View | [hiibrarahmad.github.io/PRJ-2026-PCB-0001-UNO-V1.github.io](https://hiibrarahmad.github.io/PRJ-2026-PCB-0001-UNO-V1.github.io/) |
+| 🌐 Interactive PCB View | [hiibrarahmad.github.io/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io](https://hiibrarahmad.github.io/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/) |
 | 👤 Designer | [github.com/hiibrarahmad](https://github.com/hiibrarahmad) |
-| 📦 Top View | [Assets/PRJ-2026-PCB-0001-UNO-variant1.jpg](https://github.com/hiibrarahmad/PRJ-2026-PCB-0001-UNO-V1.github.io/blob/main/Assets/PRJ-2026-PCB-0001-UNO-variant1.jpg) |
-| 📦 Bottom View | [Assets/PRJ-2026-PCB-0001-UNO-variant1bot.jpg](https://github.com/hiibrarahmad/PRJ-2026-PCB-0001-UNO-V1.github.io/blob/main/Assets/PRJ-2026-PCB-0001-UNO-variant1bot.jpg) |
+| 📦 Top View | [Assets/PRJ-2026-PCB-0001-UNO-variant1.jpg](https://github.com/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/blob/main/Assets/PRJ-2026-PCB-0001-UNO-variant1.jpg) |
+| 📦 Bottom View | [Assets/PRJ-2026-PCB-0001-UNO-variant1bot.jpg](https://github.com/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/blob/main/Assets/PRJ-2026-PCB-0001-UNO-variant1bot.jpg) |
 
 ---
 
 <div align="center">
 
-**PRJ-2026-PCB-0001-UNO-V1**
+**PRJ-PCB-1003-2026-ArduinoUno-V1**
 
 *Custom Arduino UNO Compatible Board · Designed by Hibrar Ahmad*
 
