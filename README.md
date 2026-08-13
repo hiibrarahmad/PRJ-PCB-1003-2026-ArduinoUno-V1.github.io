@@ -8,7 +8,7 @@
 
 ### Custom Arduino UNO Compatible Development Board
 
-**Designed by [Hibrar Ahmad](https://github.com/hiibrarahmad) · Powered by ATmega328P**
+**Designed by [Ibrar Ahmad](https://github.com/hiibrarahmad) · Powered by ATmega328P**
 
 [![PCB Version](https://img.shields.io/badge/PCB%20Version-V1-00c8ff?style=for-the-badge)](#)
 [![Layer Count](https://img.shields.io/badge/PCB%20Layers-2%20Layer-ff6b35?style=for-the-badge)](#)
@@ -249,7 +249,7 @@ PRJ-PCB-1003-2026-ArduinoUno-V1.github.io/
 
 **PRJ-PCB-1003-2026-ArduinoUno-V1**
 
-*Custom Arduino UNO Compatible Board · Designed by Hibrar Ahmad*
+*Custom Arduino UNO Compatible Board · Designed by Ibrar Ahmad*
 
 [![Platform](https://img.shields.io/badge/Platform-ATmega328P-ef4444?style=for-the-badge)](#)
 [![USB](https://img.shields.io/badge/USB-Type--C-a855f7?style=for-the-badge)](#)
